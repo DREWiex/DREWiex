@@ -1,6 +1,6 @@
 ## Hi, I'm Andrés! :v:
 
-I studied a :medal_military: **Full Stack Web Development** :medal_military: bootcamp. Now I'm looking forward to putting into practice what I've learned :technologist:.
+I studied a :medal_military: **Full Stack Web Development** :medal_military: bootcamp. Now I'm looking forward to putting into practice what I've learned.
 
 ---
 
