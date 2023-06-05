@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi, I'm Andrés! :v:
+
+I studied a :medal_military: **Full Stack Web Development** :medal_military: bootcamp. Now I'm looking forward to putting into practice what I've learned :technologist:.
+
+---
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/andres-leon-developer)
 
 <!--
 **DREWiex/DREWiex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
