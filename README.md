@@ -4,12 +4,12 @@ I studied a 🎖️ **Full Stack Web Development** 🎖️ bootcamp. Now I'm loo
 
 💻 Hard Skills:
 
-Full Stack Web Developer
-HTML, CSS, JavaScript
-React, Node.js, Express
-MongoDB, PostgreSQL
-Git VCS
-Scrum Project Management
+- Full Stack Web Developer
+- HTML, CSS, JavaScript
+- React, Node.js, Express
+- MongoDB, PostgreSQL
+- Git VCS
+- Scrum Project Management
 
 ---
 
