@@ -1,23 +1,25 @@
-## Hi, I'm Andrés! :v:
+## Hi, I'm Andrés! 👋
 
-I studied a :medal_military: **Full Stack Web Development** :medal_military: bootcamp. Now I'm looking forward to putting into practice what I've learned.
+I studied a 🎖️ **Full Stack Web Development** 🎖️ bootcamp. Now I'm looking forward to putting into practice what I've learned.
+
+💻 Hard Skills:
+
+Full Stack Web Developer
+HTML, CSS, JavaScript
+React, Node.js, Express
+MongoDB, PostgreSQL
+Git VCS
+Scrum Project Management
+
+---
+
+🚀 Latest Project: "Blue" - A quiz that calculates your water footprint 💧
+
+"Blue" is a project I recently worked on. It is an interactive water footprint calculator that helps raise awareness of people's water consumption and promotes sustainable practices. The app classifies users as "Saver" or "Spender" according to their water consumption and provides detailed information on their daily consumption, as well as annual expenditure in euros. It also proposes personalized challenges to help users save water, money and contribute to the care of the environment.
+
+You can access the project repository [here](https://github.com/DREWiex/blue-quiz).
 
 ---
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/andres-leon-developer)
-
-<!--
-**DREWiex/DREWiex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
