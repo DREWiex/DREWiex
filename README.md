@@ -1,11 +1,10 @@
 ## Hi, I'm Andrés! 👋
 
-I studied a 🎖️ **Full Stack Web Development** 🎖️ bootcamp. Now I'm looking forward to putting into practice what I've learned.
+🎖️ **Full Stack Web Developer** 🎖️ bootcamp graduated looking forward to put into practice what I've learned.
 
 💻 Hard Skills:
 
-- Full Stack Web Developer
-- HTML, CSS, JavaScript
+- HTML5, CSS3, JavaScript ES6
 - React, Node.js, Express
 - MongoDB, PostgreSQL
 - Git VCS
