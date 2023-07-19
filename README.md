@@ -22,3 +22,7 @@ You can access the project repository [here](https://github.com/DREWiex/blue-qui
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/andres-leon-developer)
+
+---
+
+![DREWiex's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DREWiex&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
